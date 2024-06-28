@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 2px;
+}
+h1 {
+    color: aliceblue;
+}
+.row {
+    padding: 5px;
+}
+.barra {
+    background-color: blueviolet;
+}
+.cajaborde {
+    border-style: solid;
+    border-color: blue;
+    height: 100px;
+}
